@@ -7,8 +7,9 @@ caption: H  συγκεκριμένη εφαρμόγη σου δίνει την �
 license_url:  https://play-lh.googleusercontent.com/RSu_Yble-5MgqnXbuqaYdj9r97Wv3yE0ICX2vDGAw2QCZPF4wZLA71Q1cEndjR1WpDM
 license_text: MyFitnessPal, Inc.
 categories: 
- - App  
+ - Eργαλεία και τεχνικές
+ - Έξυπνες διεπαφές χρήστη  
 tags: 
- - Fitness
- - Workout  
+ - Albert Lee
+ - Mike Lee  
 ---
